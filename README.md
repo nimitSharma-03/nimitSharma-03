@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Nimit Sharma — Software Engineer · Data Science · ML/AI" />
+  <img src="header.svg" width="100%" alt="Nimit Sharma — Software Engineer · Data Science · ML/AI" />
 </p>
 
 <p align="center">
