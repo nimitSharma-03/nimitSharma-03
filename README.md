@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="header.svg" width="100%" alt="Nimit Sharma — Software Engineer · Data Science · ML/AI" />
+  <img src="assets/header.svg" width="100%" alt="Nimit Sharma — Software Engineer · Data Science · ML/AI" />
 </p>
 
 <p align="center">
@@ -9,9 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:nimitsh2@gmail.com"><img src="https://img.shields.io/badge/Email-nimitsh2%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/nimitSharma-03"><img src="https://img.shields.io/badge/GitHub-nimitSharma--03-181717?style=flat&logo=github&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=nimitSharma-03&style=flat&color=7A1F2B&label=Profile+Views" />
 </p>
 
 ---
@@ -25,7 +23,6 @@
 - 🤖 Exploring **GenAI & NLP** — LLM-based pipelines, retrieval, and language applications
 - 🧩 Comfortable across the stack — **frontend + backend engineering** combined with **ML/DL** — building full systems from UI down to the model
 - 🌱 Java for core CS/DSA work, Python for ML, data, and backend projects
-- 📫 Reach me at **nimitsh2@gmail.com**
 
 ---
 
